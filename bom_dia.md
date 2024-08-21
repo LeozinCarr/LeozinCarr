@@ -1,6 +1,6 @@
 aoba :o bom dia
 
-meu nome é leonardo, estou estudando com o curso da alura
+meu nome é leonardo, estou estudando com o curso da alura;
 estou me desenvolvendo na linguagem javascript.......... ou estou tentando.........
 irei compartilhar meus projetos aqui. (pelo menos o que vêm do alura)
 
