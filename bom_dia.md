@@ -1,6 +1,6 @@
 # Saudações! Você está no meu perfil, cujo chamado "LeozinCarr".
 
-## Meu nome é Leonardo Tavano, estou no primeiro ano do ensino médio, em ensino integral.
+## Meu nome é Leonardo Tavano, estou no primeiro ano do ensino médio, estudando no ensino integral.
 
 - Estou estudando no curso do Alura;
 - Desejo e estou estudando a linguagem "JavaScript";
