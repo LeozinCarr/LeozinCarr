@@ -1,13 +1,15 @@
-aoba :o bom dia
+# Saudações! Você está no meu perfil, cujo chamado "LeozinCarr".
 
-meu nome é leonardo, estou estudando com o curso da alura;
-estou me desenvolvendo na linguagem javascript.......... ou estou tentando.........
-irei compartilhar meus projetos aqui. (pelo menos o que vêm do alura)
+## Meu nome é Leonardo Tavano, estou no primeiro ano do ensino médio, em ensino integral.
 
-você pode entrar em contato comigo pelo instagram, twitter...
-instagram: @leozincarr_
-twitter: @BiliPipoca
+- Estou estudando no curso do Alura;
+- Desejo e estou estudando a linguagem "JavaScript";
+- Irei utilizar esse espaço para o meu organizamento e compartilhamento dos meus projetos desenvolvidos.
 
-obrigado por ler! acho que ainda vou pegar umas batatas ou não. sei lá...........,,.,...
-
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/LeozinCarr/LeozinCarr/blob/main/bom_dia.md">bom_dia.md</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/LeozinCarr">Leonardo</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+  # Você pode entrar em contato comigo por:
+- Instagram:
+  @leozincarr_
+- Twitter:
+  @BiliPipoca
+- Gmail:
+  @pipoca42bili10@gmail.com
