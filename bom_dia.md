@@ -11,5 +11,5 @@
   [@leozincarr_](https://www.instagram.com/leozincarr_/)
 - Twitter:
   [@BiliPipoca](https://twitter.com/BiliPipoca)
-- Gmail:
+- Gmail(email principal):
   @pipoca42bili10@gmail.com
