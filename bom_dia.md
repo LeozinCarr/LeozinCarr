@@ -8,8 +8,8 @@
 
   # Você pode entrar em contato comigo por:
 - Instagram:
-  @leozincarr_
+  [@leozincarr_](https://www.instagram.com/leozincarr_/)
 - Twitter:
-  @BiliPipoca
+  [@BiliPipoca](https://twitter.com/BiliPipoca)
 - Gmail:
   @pipoca42bili10@gmail.com
